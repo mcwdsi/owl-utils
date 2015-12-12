@@ -1,0 +1,9 @@
+input_dir=/Users/hoganwr/devel/ontology/dron
+input_file=dron-rxnorm.owl
+input_type=file
+annotation_property_iri=http://purl.obolibrary.org/obo/DRON_00010000
+output_dir=/Users/hoganwr/Dropbox/research/ontology/medication_ontology
+output_file=scdf_that_are_htn_meds.tsv
+output_type=file
+iri_file_dir=/Users/hoganwr/Dropbox/research/ontology/medication_ontology
+iri_file=htn_meds.tsv

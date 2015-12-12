@@ -1,0 +1,11 @@
+input_type=file
+input_dir=/Users/hoganwr/devel/ontology/obc-ide-owl-files
+input_file=PROD-articles-9-27-with-journal-instances.owl
+load_first_file=obc-ide-indexing-instances-and-classes.owl
+publication_class_iri=http://purl.obolibrary.org/obo/IAO_0000311
+journal_class_iri=http://purl.obolibrary.org/obo/FBcv_0000787
+part_of_relation_iri=http://purl.obolibrary.org/obo/BFO_0000137
+journal_name_annotation_iri=http://purl.obolibrary.org/obo/APOLLO_SV_00000324
+pub_journal_name_annotation_iri=http://www.pitt.edu/obc/IDE_journalTitle
+output_dir=/Users/hoganwr/devel/ontology/obc-ide-owl-files
+output_file=PROD-articles-9-27-with-journal-instances-connected.owl

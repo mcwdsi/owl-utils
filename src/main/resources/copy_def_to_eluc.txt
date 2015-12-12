@@ -1,0 +1,8 @@
+input_dir=/Users/hoganwr/devel/ontology/apollo-sv/src/ontology/
+input_file=apollo-sv.owl
+input_type=file
+definition_iri=http://purl.obolibrary.org/obo/IAO_0000115
+elucidation_iri=http://purl.obolibrary.org/obo/IAO_0000600
+output_dir=/Users/hoganwr/devel/ontology/apollo-sv/src/ontology/
+output_file=apollo-sv-modified.owl
+output_type=file

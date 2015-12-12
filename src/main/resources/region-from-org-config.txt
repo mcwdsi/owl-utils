@@ -1,0 +1,9 @@
+input_dir=/Users/hoganwr/devel/ontology/geographical-entity-ontology
+input_file=nation-and-dependency-instances.owl
+output_dir=/Users/hoganwr/devel/ontology/geographical-entity-ontology
+output_file=nation-and-dependency-geography.owl
+output_ontology_uri=http://purl.obolibrary.org/obo/geo/dev/nation-and-dependency-geography.owl
+iri_base=http://purl.obolibrary.org/obo/
+iri_namespace=GEO
+iri_id_length=9
+starting_iri_number=730
